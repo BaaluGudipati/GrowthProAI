@@ -6,8 +6,9 @@ Backend Deployment:
 Setup Instructions
 Clone Repository: https://github.com/BaaluGudipati/GrowthProAI
 Frontend Hosted Link :https://growth-pro-ai-one.vercel.app/
-Backed Render Link :
-Backend Setup:
+Backed Render Link : https://growthproai.onrender.com
+
+##Backend Setup:
 
 Navigate to backend: cd backend
 
