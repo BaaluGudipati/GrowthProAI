@@ -4,8 +4,9 @@ Frontend Deployment:
 Backend Deployment: 
 
 Setup Instructions
-Clone Repository: git clone https://github.com/your-username/growthpro-dashboard.git
-
+Clone Repository: https://github.com/BaaluGudipati/GrowthProAI
+Frontend Hosted Link :https://growth-pro-ai-one.vercel.app/
+Backed Render Link :
 Backend Setup:
 
 Navigate to backend: cd backend
